@@ -1,5 +1,7 @@
-hi sam here
+hi sam here:1st commit :while uploading a file
 
-1st change without cloning
+2st change without cloning
 
-het 2 nd change
+het 3 nd change
+
+cloned  :4 th commit 
